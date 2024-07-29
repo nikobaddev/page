@@ -7,7 +7,7 @@ body{
   background-color: #1b015c;
   color: white;
   font-family: Poppins, Helvetica, Arial, 'Times New Roman', serif;
-  aspect-ratio: 1.5/1;
+  height: 800px;
   width: 600px;
 }
 
